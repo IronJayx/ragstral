@@ -1,0 +1,12 @@
+mistralai>=1.2.0
+mistral-common>=1.5.0
+pinecone>=5.0.0
+langchain>=0.2.0
+langchain-text-splitters>=0.2.0
+requests>=2.31.0
+numpy>=1.24.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0
+huggingface-hub>=0.20.0 
